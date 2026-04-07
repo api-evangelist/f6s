@@ -1,16 +1,14 @@
 aid: f6s
-url: 
-  https://raw.githubusercontent.com/api-evangelist/f6s/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/f6s/refs/heads/main/apis.yml
 apis:
   - aid: f6s:f6s-api
     name: F6S API
     tags:
-      - Startups
-      - Funding
       - Accelerators
+      - Funding
       - Programs
-    image: 
-      https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+      - Startups
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     humanURL: https://developers.f6s.com/
     properties:
       - url: https://developers.f6s.com/
@@ -22,10 +20,10 @@ apis:
       profiles, funding opportunities, and community data.
 name: F6S
 tags:
-  - Startups
-  - Funding
   - Accelerators
+  - Funding
   - Jobs
+  - Startups
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
