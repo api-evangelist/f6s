@@ -28,6 +28,8 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 common:
+  - type: GitHubOrganization
+    url: https://github.com/f6s
   - url: https://www.f6s.com/
     name: F6S Website
     type: Website
