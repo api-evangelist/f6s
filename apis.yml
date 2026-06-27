@@ -50,7 +50,7 @@ common:
     type: Portal
   - url: https://www.f6s.com/register
     name: Sign Up
-    type: SignUp
+    type: Signup
   - url: https://www.f6s.com/login
     name: Login
     type: Login
