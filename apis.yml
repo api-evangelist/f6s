@@ -22,6 +22,11 @@ name: F6S
 tags:
   - Accelerators
   - Funding
+  - Job
+  - Startups
+tags_raw:
+  - Accelerators
+  - Funding
   - Jobs
   - Startups
 type: Index
