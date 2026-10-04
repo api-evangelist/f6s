@@ -1,5 +1,8 @@
 aid: f6s
 url: https://raw.githubusercontent.com/api-evangelist/f6s/refs/heads/main/apis.yml
+x-docs-platform: stoplight
+x-docs-platform-confidence: high
+x-docs-platform-checked: 2026-10-03
 apis:
   - aid: f6s:f6s-api
     name: F6S API
