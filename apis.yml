@@ -59,6 +59,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/f6s.png
 access: 3rd-Party
 common:
+  - type: Plans
+    url: plans/f6s-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/f6s-rate-limits.yml
+  - type: FinOps
+    url: finops/f6s-finops.yml
   - type: DomainSecurity
     url: security/f6s-domain-security.yml
   - type: GitHubOrganization
